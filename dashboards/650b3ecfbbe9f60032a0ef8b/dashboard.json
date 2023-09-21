@@ -1,0 +1,49 @@
+{
+    "dataExploration": true,
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aSampleIAAaECommerce",
+        "id": "localhost_aSampleIAAaECommerce",
+        "title": "Sample ECommerce"
+    },
+    "desc": "",
+    "filterRelations": [
+    ],
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "650b3ecfbbe9f60032a0ef8b",
+    "options": {
+        "manual": false
+    },
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
+            ],
+            "name": "Vivid"
+        }
+    },
+    "title": "Sample - Ecommerce",
+    "widgets": [
+        "./widgets/650b3ecfbbe9f60032a0ef8c/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef8d/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef8e/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef8f/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef90/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef91/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef92/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef93/widget.json",
+        "./widgets/650b3ecfbbe9f60032a0ef94/widget.json",
+        "./widgets/650b635ebbe9f60032a0efe9/widget.json"
+    ]
+}
